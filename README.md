@@ -47,5 +47,5 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/amit-parihar-1707am/)
+- 📧 Email: amitparihar1208@gmail.com
