@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Amit Parihar</h1>
+ <h1 align="center">Hi 👋, I'm Amit Parihar</h1>
 <h3 align="center">🚀 MERN Stack Developer | Open to Work</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Developer;Backend+Learner;Open+to+Junior+Developer+Role" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Developer;Learning+Next.js+%26+TypeScript;Open+to+Junior+Developer+Role" />
 </p>
 
 ---
@@ -11,13 +11,13 @@
 
 🔭 Currently building full-stack MERN applications  
 
-🤝 Open to collaborating on React.js & Node.js projects  
+🌱 Currently learning **Next.js** and **TypeScript**  
 
-🌱 Improving backend architecture & database design skills  
+🤝 Open to collaborating on frontend and backend projects  
 
-💬 Ask me about JavaScript, React, Node.js, MongoDB, MySQL  
+💬 Ask me about JavaScript, React, Node.js, MongoDB, and MySQL  
 
-⚡ Focused on writing clean and scalable code  
+⚡ Focused on writing clean, scalable, and production-ready code  
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" />
 </p>
 
 ### ⚙️ Backend
@@ -45,23 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/amit-parihar-1707am/)
-- 📧 Email: amitparihar1208@gmail.com
+- 💼 LinkedIn: (Add your LinkedIn link)
+- 📧 Email: your-email@gmail.com
